@@ -1,12 +1,12 @@
-![PROGRAMACION ORIENTADO DE OBJETOS](https://github.com/gcoronelc/UNI-FIIS-2023-2-SI302-V/blob/main/img/JavaOO.jpg)
+![PROGRAMACION ORIENTADO DE OBJETOS](https://github.com/gcoronelc/UNI-FIEE-2023-2-BMA15-Q/blob/main/img/JavaOO.jpg)
 
 # DATOS GENERALES
 
 - Lugar: UNIVERSIDAD NACIONAL DE INGENIERIA
-- Horario: Lunes de 09:00-14:30 Horas
-- Inicio: 28-AGO-2023
-- Portal web: https://www.fiis.uni.edu.pe/
-- Dirección: https://goo.gl/maps/SGR2RiuPjonfqSM87
+- Horario: Martes y Jueves de 16-18 Horas
+- Inicio: 29-AGO-2023
+- Portal web: https://fiee.uni.edu.pe/es/
+- Dirección: https://goo.gl/maps/VQDucSW882GDTYtg7
 
 # DOCENTE
 
@@ -19,13 +19,13 @@
 
 ## Delegado
 
-- Nombre: José Alexander Venegas Zambrano
-- Correo: jose.venegas.z@uni.pe
+- Nombre: 
+- Correo: 
 
 ## Subdelegado
 
-- Nombre: Xavi Julio Huaman Bonifacio
-- Correo: xavi.huaman.b@uni.pe
+- Nombre: 
+- Correo: 
 
 # RECURSOS UTILES
 
