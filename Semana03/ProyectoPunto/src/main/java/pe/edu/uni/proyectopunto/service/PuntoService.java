@@ -13,8 +13,8 @@ public class PuntoService {
 	 */
 	public PuntoService() {
 		Random random = new Random();
-		this.x = random.nextInt(50) * (random.nextInt(50) % 2 == 1 ? +1 : -1);
-		this.y = random.nextInt(50) * (random.nextInt(50) % 2 == 1 ? +1 : -1);
+		this.x = (random.nextInt(50) + 1) * (random.nextInt(50) % 2 == 1 ? +1 : -1);
+		this.y = (random.nextInt(50) + 1) * (random.nextInt(50) % 2 == 1 ? +1 : -1);
 	}
 
 	/**
