@@ -7,6 +7,8 @@
 - Inicio: 29-AGO-2023
 - Portal web: https://fiee.uni.edu.pe/es/
 - Dirección: https://goo.gl/maps/VQDucSW882GDTYtg7
+- Delegado: Edson Alonso Quispe Estrada
+- Subdelegado: Jhon Lennar Romero Carhuapuma
 
 # DOCENTE
 
